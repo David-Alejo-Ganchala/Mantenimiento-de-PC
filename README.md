@@ -2,8 +2,11 @@
 Integrantes:
 
 CHICAIZA IVÁN
+
 GANCHALA DAVID
+
 MULLO KARLA
+
 TUPIZA ANDRES
 
 El mantenimiento preventivo de un PC es fundamental para garantizar su rendimiento óptimo y prolongar su vida útil. Aquí tienes algunas prácticas recomendadas para llevar a cabo un mantenimiento preventivo efectivo:
