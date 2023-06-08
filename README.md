@@ -13,3 +13,8 @@ Escaneo de malware y virus: Utiliza un programa antivirus confiable y realiza an
 ![image](https://github.com/David-Alejo-Ganchala/Mantenimiento-de-PC/assets/135990048/7f7f5bb9-6edc-444e-968e-c837bfd4cc2b)
 
 LINK DEL VIDEO:
+
+INFORME:
+[PROYECTO_FINAL_INFORME.pdf](https://github.com/David-Alejo-Ganchala/Mantenimiento-de-PC/files/11692153/PROYECTO_FINAL_INFORME.pdf)
+DIAPOSITIVAS:
+[Uploading PROYECTO_FINAL_PRESENTACION_GRUPO 2.pptx…]()
