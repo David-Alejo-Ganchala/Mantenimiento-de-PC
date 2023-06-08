@@ -22,6 +22,8 @@ Escaneo de malware y virus: Utiliza un programa antivirus confiable y realiza an
 
 LINK DEL VIDEO:
 
+https://youtu.be/wZP2FrfxSQg
+
 INFORME:
 
 [PROYECTO_FINAL_INFORME.pdf](https://github.com/David-Alejo-Ganchala/Mantenimiento-de-PC/files/11692153/PROYECTO_FINAL_INFORME.pdf)
