@@ -30,5 +30,6 @@ INFORME:
 
 DIAPOSITIVAS:
 
-[PROYECTO_FINAL_PRESENTACION_GRUPO 2.pptx](https://github.com/David-Alejo-Ganchala/Mantenimiento-de-PC/files/11692188/PROYECTO_FINAL_PRESENTACION_GRUPO.2.pptx)
+[PROYECTO_FINAL_PRESENTACION.pptx](https://github.com/David-Alejo-Ganchala/Mantenimiento-de-PC/files/11692298/PROYECTO_FINAL_PRESENTACION.pptx)
+
 
